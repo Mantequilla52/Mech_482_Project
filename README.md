@@ -1,7 +1,7 @@
 
 # MECH_482_Furuta_Pendulum_Project
 <p align="center">
-    Control System Design 482-01<br/>
+    Control System Design<br/>
     <br/>
     by<br/>
     Steve Adams<br/>
