@@ -29,8 +29,7 @@
 ## 1. Introduction
 The Furuta Pendulum is driven by an arm which rotates in the horizontal plane and a pendulum attached to that arm which rotates in the vertical plane. 
 It was invented by a man named Katsuhisa Furuta at the Tokyo Institute of Technology in 1922. The pendulum must exihibt the following traits:
--Must stay up right
--When knocked down it must reurn to the upright position
+It must stay up right and when it is knocked down it must reurn to the upright position
 <p align="center">  
   
 
