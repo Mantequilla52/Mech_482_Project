@@ -3,10 +3,12 @@ MECH_482_Furuta_Pendulum_Project
 <p align="center">
     Control System Design 482-01<br/>
     by<br/>
-    Darniece Simon<br/>
-    Darren Bohler<br/>
-    Mathew Richards<br/>
-    Jovany Mondragon
+   
+    Steve Adams<br/>
+    Ricardo Parra<br/>
+    Anothony Rink<br/>
+   Spencer Weed<br/>
+    Jose Varela<br/>
 </p>
 <p align="center">    
     
