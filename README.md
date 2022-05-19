@@ -23,7 +23,7 @@
 - [1. Introduction](#1-introduction)
 - [2. Objectives](#2-objectives)
 - [3. Modeling](#3-modeling)
-- [4. Controller Design and Simulations](#5-controller-design-and-simulations)
+- [4. Controller Design and Simulations]
 - [5. Results](#6-results)
 - [6. Reference](#7-references)
 
