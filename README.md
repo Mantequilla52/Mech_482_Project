@@ -35,4 +35,4 @@ It must stay up right and when it is knocked down it must reurn to the upright p
 ## 2. Modeling
 The system is comprised of 2 masses, the rotary arm in the horiontal plane and the pendulum in the vertical plane. The rotary arm and the pendulum are limked. A DC motor is applying torque to the rotary arm that controls the swaying of the pendulum to remain in an upright position. The torque is used the feedback control system. The angles of both the rotary arm and the pendulum are 0 when in the upright position. It is assumed postive when rotating counter-clockwise. The system is stable when the pendulum is allowed to hang down.
 
-    ## 5. Controller Design and Simulations
+## 5. Controller Design and Simulations
