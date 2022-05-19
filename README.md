@@ -1,5 +1,5 @@
 
-MECH_482_Furuta_Pendulum_Project
+# MECH_482_Furuta_Pendulum_Project
 <p align="center">
     Control System Design 482-01<br/>
     <br/>
