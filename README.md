@@ -26,3 +26,10 @@
 - [4. Controller Design and Simulations](#5-controller-design-and-simulations)
 - [5. Results](#6-results)
 - [6. Reference](#7-references)
+
+## 1. Introduction
+The Furuta pendulum has been in use since 1992, when it was invented by Katsuhisa Furuta. The Furuta pendulum, or the rotational inverted pendulum consists of a driven arm rotating in the horizontal plane. In the following report is the design, implementation, and analyzation through state space representation of the Furuta pendulum, Figure 1 provides a depiction of the analyzed. The system will become balanced in real time using an engineered simulation, which is connected through a state space representation equation
+<p align="center">  
+    <img src="photos/figure1.jpg">
+    <br/>
+    Figure 1
