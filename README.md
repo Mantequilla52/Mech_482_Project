@@ -10,7 +10,6 @@ MECH_482_Furuta_Pendulum_Project
 </p>
 <p align="center">    
     
-<img src="photos/csuchicologo.png">
     
 </p>
 <p align="center">   
