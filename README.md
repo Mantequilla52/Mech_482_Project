@@ -7,8 +7,8 @@ MECH_482_Furuta_Pendulum_Project
     Steve Adams<br/>
     Ricardo Parra<br/>
     Anothony Rink<br/>
-   Spencer Weed<br/>
-    Jose Varela<br/>
+    Spencer Weed<br/>
+    Jose Varela
 </p>
 <p align="center">    
     
