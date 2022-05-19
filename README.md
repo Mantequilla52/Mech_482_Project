@@ -21,20 +21,16 @@
 
 #### Table Of Contents
 - [1. Introduction](#1-introduction)
-- [2. Objectives](#2-objectives)
-- [3. Modeling](#3-modeling)
-- [4. Controller Design and Simulations](#4-controller-design-and-simulations)
-- [5. Results](#6-results)
-- [6. Reference](#7-references)
+- [2. Modeling](#2-modeling)
+- [3. Controller Design and Simulations](#3-controller-design-and-simulations)
+- [4. Results](#4-results)
+- [5. Reference](#5-references)
 
 ## 1. Introduction
-The Furuta pendulum has been in use since 1992, when it was invented by Katsuhisa Furuta. The Furuta pendulum, or the rotational inverted pendulum consists of a driven arm rotating in the horizontal plane. In the following report is the design, implementation, and analyzation through state space representation of the Furuta pendulum, Figure 1 provides a depiction of the analyzed. The system will become balanced in real time using an engineered simulation, which is connected through a state space representation equation
+The Furuta Pendulum is driven by an arm which rotates in the horizontal plane and a pendulum attached to that arm which rotates in the vertical plane. 
+It was invented by a man named Katsuhisa Furuta at the Tokyo Institute of Technology in 1922. The pendulum must exihibt the following traits:
+-Must stay up right
+-When knocked down it must reurn to the upright position
 <p align="center">  
   
-## 2. Objectives
 
-- Produce a controller that balances a rotary inverted pendulum in its upright position starting from its downright position.
-- When powered on the pendulum must stay upright (in the vertical axis). When the pendulum is knocked down or moved it must be able to return to its upright position by only using a motor that rotates in the horizontal axis.
-- simulate the system in Coppelia while being connected to MATLAB
-- Provide the mathematical model of the system
-- If the system contains hardware, the design of hardware should consist the necessary architectural explanations such as hardware and software relationships.
