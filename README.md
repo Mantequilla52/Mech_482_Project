@@ -3,7 +3,8 @@ MECH_482_Furuta_Pendulum_Project
 <p align="center">
     Control System Design 482-01<br/>
     <br/>
-    <!--insert img-->
+    <![CSU_Chico_seal svg](https://user-images.githubusercontent.com/105890564/169413974-60275a96-6100-4584-a3b9-07019b29b97f.png)
+>
     by<br/>
     Darniece Simon<br/>
     Darren Bohler<br/>
