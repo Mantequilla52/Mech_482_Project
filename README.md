@@ -1,0 +1,2 @@
+# Ricardo
+MECH_482_Furuta_Pendulum_Project
