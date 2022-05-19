@@ -30,6 +30,11 @@
 ## 1. Introduction
 The Furuta pendulum has been in use since 1992, when it was invented by Katsuhisa Furuta. The Furuta pendulum, or the rotational inverted pendulum consists of a driven arm rotating in the horizontal plane. In the following report is the design, implementation, and analyzation through state space representation of the Furuta pendulum, Figure 1 provides a depiction of the analyzed. The system will become balanced in real time using an engineered simulation, which is connected through a state space representation equation
 <p align="center">  
-    <img src="(https://user-images.githubusercontent.com/105890564/169416036-de903264-8f96-4f65-bc26-5ffde1dc7a73.jpg)">
-    <br/>
-    Figure 1
+  
+## 2. Objectives
+
+- Produce a controller that balances a rotary inverted pendulum in its upright position starting from its downright position.
+- When powered on the pendulum must stay upright (in the vertical axis). When the pendulum is knocked down or moved it must be able to return to its upright position by only using a motor that rotates in the horizontal axis.
+- simulate the system in Coppelia while being connected to MATLAB
+- Provide the mathematical model of the system
+- If the system contains hardware, the design of hardware should consist the necessary architectural explanations such as hardware and software relationships.
