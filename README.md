@@ -32,4 +32,5 @@ It was invented by a man named Katsuhisa Furuta at the Tokyo Institute of Techno
 It must stay up right and when it is knocked down it must reurn to the upright position
 <p align="center">  
   
-
+## 3. Modeling
+The system consists of 2 masses, arm 1 m in the horizontal plane, and arm 2 the pendulum, which rotates freely in the vertical plane . In addition to a link connecting arm 1 and the pendulum, that is fixed. Figure 2 depicts a DC motor applying torque to arm 1 m, which moves horizontally then controlling the pendulum so it may remain in the upright position. The torque t is a critical component used in the feedback control system, which is done using a state-space model. The angular rotation from arm 1, 0is measured in the horizontal plane, where it is assumed that the counter clockwise direction is considered to be positive. The angular rotation from the pendulum 1is measured in the vertical plane, where it is also to be assumed that the counter clockwise direction is positive. The system is stable when the pendulum arm is hanging down in a stable position 1=0.
