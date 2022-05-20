@@ -12,8 +12,6 @@
 </p>
 <p align="center">    
     
-<img src="photos/CSU_Chico_seal.svg.png">
-    
     
 </p>
 <p align="center">   
