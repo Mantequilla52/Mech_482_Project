@@ -16,7 +16,7 @@
 </p>
 <p align="center">   
     California State University, Chico Department of Mechanical and Mechatronic Engineering and<br/>
-    Advanced Manufacturing Chico, Ca 95929.
+    Advanced Manufacturing Chico, CA 95929.
 </p>
 
 #### Table Of Contents
