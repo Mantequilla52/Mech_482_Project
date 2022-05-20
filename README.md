@@ -126,7 +126,7 @@ K = acker(A,B,DP)
 ## 4. Appendix
     <p align="center">
 ![image](https://user-images.githubusercontent.com/105890564/169443897-bc5f6916-9497-4552-bbfb-b1377f009e66.png)
-    </p>
+ </p>
 
 ## 5. References
 Inverted pendulum: System modeling. Control Tutorials for MATLAB and Simulink - Inverted Pendulum: System Modeling. (n.d.). Retrieved May 19, 2022, from https://ctms.engin.umich.edu/CTMS/index.php?example=InvertedPendulum§ion=SystemModeling 
