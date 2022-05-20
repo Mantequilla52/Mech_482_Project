@@ -23,8 +23,7 @@
 - [1. Introduction](#1-introduction)
 - [2. Modeling](#2-modeling)
 - [3. Controller Design and Simulations](#3-controller-design-and-simulations)
-- [4. Results](#4-results)
-- [5. References](#5-references)
+- [4. References](#4-references)
 
 ## 1. Introduction
 The Furuta Pendulum is driven by an arm which rotates in the horizontal plane and a pendulum attached to that arm which rotates in the vertical plane. 
