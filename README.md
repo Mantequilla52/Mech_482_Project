@@ -3,6 +3,8 @@
 <p align="center">
     Control System Design<br/>
     482-01<br/>
+    ![image](https://user-images.githubusercontent.com/105890564/169445934-17ab583b-18fa-4b21-9a59-ad063df26626.png)
+
     by<br/>
     Steve Adams<br/>
     Ricardo Parra<br/>
