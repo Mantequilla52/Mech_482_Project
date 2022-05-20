@@ -124,7 +124,9 @@ DP = [-sigma2+j*wd, -sigma2-j*wd, -30, -40];
 K = acker(A,B,DP)
 ```
 ## 4. Appendix
-
+<p align="center">
+    https://user-images.githubusercontent.com/105890564/169443851-0790b417-febc-40a7-babd-1a8b61e38bad.png
+    </p>
 ## 5. References
 Inverted pendulum: System modeling. Control Tutorials for MATLAB and Simulink - Inverted Pendulum: System Modeling. (n.d.). Retrieved May 19, 2022, from https://ctms.engin.umich.edu/CTMS/index.php?example=InvertedPendulum§ion=SystemModeling 
 
