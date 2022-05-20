@@ -125,6 +125,7 @@ K = acker(A,B,DP)
 ```
 ## 4. Appendix
    <p align="center">
+    ![image](https://user-images.githubusercontent.com/105890564/169444177-65154871-833a-469e-86b6-6012c501ae99.png)
  </p>
 
 ## 5. References
