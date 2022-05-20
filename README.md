@@ -12,7 +12,7 @@
 </p>
 <p align="center">    
     
-<img src="downloads/CSU_Chico_seal.svg">
+<img src="photos/CSU_Chico_seal.svg.png">
     
     
 </p>
