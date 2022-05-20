@@ -42,3 +42,7 @@ Inverted pendulum: System modeling. Control Tutorials for MATLAB and Simulink - 
 Wen, J., Shi, Y., &amp; Lu, X. (2017, February 27). Stabilizing a rotary inverted pendulum based on logarithmic Lyapunov function. Journal of Control Science and Engineering. Retrieved May 19, 2022, from https://www.hindawi.com/journals/jcse/2017/4091302/ 
     
 Fantoni, I., &amp; Lozano, R. (2017, May 19). Stabilization of the Furuta pendulum around its homoclinic orbit. IFAC Proceedings Volumes. Retrieved May 19, 2022, from https://www.sciencedirect.com/science/article/pii/S1474667017352783 
+
+Rotary inverted pendulum. Quanser. (2021, April 20). Retrieved May 19, 2022, from https://www.quanser.com/products/rotary-inverted-pendulum/#productdetails 
+    
+    
