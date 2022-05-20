@@ -23,7 +23,8 @@
 - [1. Introduction](#1-introduction)
 - [2. Modeling](#2-modeling)
 - [3. Controller Design and Simulations](#3-controller-design-and-simulations)
-- [4. References](#4-references)
+- [4. Appedix](#4-Appendix)
+- [5. References](#4-references)
 
 ## 1. Introduction
 The Furuta Pendulum is driven by an arm which rotates in the horizontal plane and a pendulum attached to that arm which rotates in the vertical plane. 
@@ -40,7 +41,7 @@ The system is comprised of 2 masses, the rotary arm in the horiontal plane and t
   </p>
 
 
-## 2. Controller Design and Simulations
+## 3. Controller Design and Simulations
 ```
 clear;clc;
 %Inital conditions 
@@ -122,8 +123,8 @@ wd = omega*sqrt(1-zeta^2);
 DP = [-sigma2+j*wd, -sigma2-j*wd, -30, -40];
 K = acker(A,B,DP)
 ```
-## 3. Appendix
-## 4. References
+## 4. Appendix
+## 5. References
 Inverted pendulum: System modeling. Control Tutorials for MATLAB and Simulink - Inverted Pendulum: System Modeling. (n.d.). Retrieved May 19, 2022, from https://ctms.engin.umich.edu/CTMS/index.php?example=InvertedPendulum§ion=SystemModeling 
 
 Wen, J., Shi, Y., &amp; Lu, X. (2017, February 27). Stabilizing a rotary inverted pendulum based on logarithmic Lyapunov function. Journal of Control Science and Engineering. Retrieved May 19, 2022, from https://www.hindawi.com/journals/jcse/2017/4091302/ 
