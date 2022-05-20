@@ -37,3 +37,4 @@ The system is comprised of 2 masses, the rotary arm in the horiontal plane and t
 ## 2. Controller Design and Simulations
 
 ## 3. References
+Inverted pendulum: System modeling. Control Tutorials for MATLAB and Simulink - Inverted Pendulum: System Modeling. (n.d.). Retrieved May 19, 2022, from https://ctms.engin.umich.edu/CTMS/index.php?example=InvertedPendulum§ion=SystemModeling 
