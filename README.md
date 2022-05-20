@@ -7,8 +7,8 @@
     Steve Adams<br/>
     Ricardo Parra<br/>
     Anothony Rink<br/>
-    Spencer Weed<br/>
-    Jose Varela
+    Jose Varela<br/>
+    Spencer Weed
 </p>
 <p align="center">    
     
